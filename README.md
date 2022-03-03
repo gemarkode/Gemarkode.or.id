@@ -5,6 +5,7 @@
 
 <p align="center">Official Website Gemar Kode</p>
 
+[![CodeQL](https://github.com/rizkytegar/Website/actions/workflows/codeql-analysis-security.yml/badge.svg)](https://github.com/rizkytegar/Website/actions/workflows/codeql-analysis-security.yml)
 
 ## Installation
 
